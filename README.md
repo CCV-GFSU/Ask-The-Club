@@ -10,5 +10,9 @@ The club may entertain questions on following topics:
 
 ## How to ask?
 
-1. Please refer this [template](template.md) provided by us.
-2. For anonymous questions please visit our [Ask the Club](https://goo.gl/ALAc6V) form.
+1. For every question that you ask please create a new issue.
+2. Formatting must be done according to the provided template.
+3. Please refer this [template](template.md) provided by us.
+4. For anonymous questions please visit our [Ask the Club](https://goo.gl/ALAc6V) form.
+
+Note: For anonymous questions, do **not** create a new issue. Simply fill out the form provided by us.
